@@ -65,12 +65,14 @@
 
 a {
   color: #1772d0;
+  /* color: rgb(103, 160, 170); */
   text-decoration: none;
 }
 
 a:focus,
 a:hover {
-  color: #f09228;
+  /* color: #f09228; */
+  color: rgb(103, 160, 170);
   text-decoration: none;
 }
 
